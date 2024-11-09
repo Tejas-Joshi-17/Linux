@@ -1,23 +1,23 @@
 ******************************************************* This is Linux Commands ****************************************************************
 
 1)    ls                       :-    List files and directories.
-2)    ls -l                   :-    displays files and directories with detailed information.
-3)    ls -a                  :-    shows all files and directories, including
-4)    ls -h                  :-    displays file sizes in a human-readable format.
-5)    ls -l -a               :-    displays files and directories with detailed information  &  shows all files and directories, including.
-6)    ls -l -h              :-     displays files and directories with detailed information  &  displays file sizes in a human-readable format. 
+2)    ls -l                    :-    displays files and directories with detailed information.
+3)    ls -a                    :-    shows all files and directories, including
+4)    ls -h                    :-    displays file sizes in a human-readable format.
+5)    ls -l -a                 :-    displays files and directories with detailed information  &  shows all files and directories, including.
+6)    ls -l -h                 :-     displays files and directories with detailed information  &  displays file sizes in a human-readable format.
 
 7)    cd                      :-    cd /path/to/directory    -   changes the current directory to the specified path.
-8)    pwd                   :-    displays the current working directory.
+8)    pwd                     :-    displays the current working directory.
 9)    mkdir my_directory      :-   creates a new directory named “my_directory”.
-10)   mkdir "Linux Commands"       :-   Creates a new directory named "Linux Commands"
+10)   mkdir "Linux Commands"  :-   Creates a new directory named "Linux Commands"
 
-11)   rm file.txt                            :-   deletes the file named "file.txt"
-12)   rm -r my_directory            :-   deletes the directory "my_directory" recursively and its contents.
-13)   rm -f file.txt                        :-    forcefully deletes the file "file.txt" without confirmation.
+11)   rm file.txt             :-   deletes the file named "file.txt"
+12)   rm -r my_directory      :-   deletes the directory "my_directory" recursively and its contents.
+13)   rm -f file.txt          :-    forcefully deletes the file "file.txt" without confirmation.
 
 16)   mv old_name.txt new_name.txt           :-  Rename the file "old_name.txt" to "new_name.txt"
-17)   mv file.txt destination                            :-  Moves the file "file.txt" to specified destination.
+17)   mv file.txt destination                :-  Moves the file "file.txt" to specified destination.
 
 
 ------------------------------------------------------------------------ Linux Commands ---------------------------------------------------------------------
@@ -26,11 +26,11 @@
   
       -------------------------------------------------------------------------------------------------------------------------------------------------	  
   
-      1) ls                            :-  List Files & Directories.
-      2) ls -l                        :-  Display Files & Directories with detailed information.
-      3) ls -a                       :-  Shows all Files & Directories including hidden Files.
-      4) ls -h                      :-  Display Files sizes in a human-readable format.
-      5) ls -lah                   :-  Shows All Files & Directories including hidden in human-readable format.
+      1) ls                      :-  List Files & Directories.
+      2) ls -l                   :-  Display Files & Directories with detailed information.
+      3) ls -a                   :-  Shows all Files & Directories including hidden Files.
+      4) ls -h                   :-  Display Files sizes in a human-readable format.
+      5) ls -lah                 :-  Shows All Files & Directories including hidden in human-readable format.
       
       
       (-) Indicates File

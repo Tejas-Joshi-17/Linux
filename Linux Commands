@@ -13,11 +13,11 @@
 10)   mkdir "Linux Commands"       :-   Creates a new directory named "Linux Commands"
 
 11)   rm file.txt                            :-   deletes the file named "file.txt"
-12)  rm -r my_directory            :-   deletes the directory "my_directory" recursively and its contents.
-13)  rm -f file.txt                        :-    forcefully deletes the file "file.txt" without confirmation. 
+12)   rm -r my_directory            :-   deletes the directory "my_directory" recursively and its contents.
+13)   rm -f file.txt                        :-    forcefully deletes the file "file.txt" without confirmation.
 
-16)  mv old_name.txt new_name.txt           :-  Rename the file "old_name.txt" to "new_name.txt"
-17)  mv file.txt destination                            :-  Moves the file "file.txt" to specified destination.
+16)   mv old_name.txt new_name.txt           :-  Rename the file "old_name.txt" to "new_name.txt"
+17)   mv file.txt destination                            :-  Moves the file "file.txt" to specified destination.
 
 
 ------------------------------------------------------------------------ Linux Commands ---------------------------------------------------------------------
